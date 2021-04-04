@@ -1,0 +1,28 @@
+html {
+	box-sizing: border-box;
+}
+*, *:before, *:after {
+	box-sizing: inherit;
+}
+body {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 2rem;
+}
+.container {
+	font-size: 2rem;
+	color: #d2691e;
+
+}
+.container {
+	background: #faebd7;
+	padding: 2rem;
+}
+.lady-image {
+	width: 200;
+	height: 260;
+}
+h1 {
+	text-align: center;
+	font-family: serif;
+	color: #ff7f50;
+}
